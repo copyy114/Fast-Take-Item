@@ -10,7 +10,7 @@
         {
             "identifier": "fasttakeitem",
             "host": {
-				"meta": "https://raw.githubusercontent.com/copyy114/Fast-Take-Item/6c0c0a89954e5539d16f88fd8366cd2444ab5069/update_meta/meta_fasttakeitem.json"
+				"meta": "https://github.com/copyy114/Fast-Take-Item/releases/download/refs%2Fheads%2Fmain/meta.json"
 			}
         }
     ],
