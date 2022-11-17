@@ -1,0 +1,20 @@
+{
+	"name" : "Fast Take Item",
+	"description" : "Only Money,Gold,Gage Package,Painting and Bag.",
+	"author" : "iMOND",
+	"contact" : "https://steamcommunity.com/id/LosTae/",
+	"image" : "logo.png",
+	"version" : "1.0",
+	"blt_version" : 2,
+		"updates": [
+        {
+            "identifier": "fasttakeitem",
+            "host": {
+				"meta": "https://raw.githubusercontent.com/copyy114/Fast-Take-Item/6c0c0a89954e5539d16f88fd8366cd2444ab5069/update_meta/meta_fasttakeitem.json"
+			}
+        }
+    ],
+	"hooks" : [
+		{"hook_id" : "lib/tweak_data/interactiontweakdata","script_path" : "interactiontweakdata.lua"}
+	]
+}
